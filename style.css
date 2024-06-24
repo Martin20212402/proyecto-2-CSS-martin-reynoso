@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar{
+    width: 100%;
+    background: #555;
+    overflow: auto;
+}
+
+.navbar a{
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a:hover{
+    background-color: rgb(8, 146, 114);
+}
+
+.active{
+    background-color: rgb(8, 146, 114);
+}
+.introduccion {
+    text-align: center;
+    margin: 0 15%;
+}    
+
